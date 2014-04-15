@@ -1,0 +1,1 @@
+# app for talk about JS - explaning basic Javascript concepts.

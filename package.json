@@ -1,0 +1,12 @@
+{
+  "name": "js-talk",
+  "description": "app for talk about JS - explaning how to build OO code in Javascript.",
+  "version": "0.0.1",
+  "dependencies": {
+    "redis": "^0.10.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/fabricioffc/js-talk.git"
+  }
+}
